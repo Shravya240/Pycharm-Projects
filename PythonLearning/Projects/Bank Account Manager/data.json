@@ -1,0 +1,13 @@
+[
+    {
+        "owner": "Shravya",
+        "balance": 100000,
+        "type": "Savings_Account"
+    }
+][
+    {
+        "owner": "Shravya",
+        "balance": 1000,
+        "type": "Savings_Account"
+    }
+]
